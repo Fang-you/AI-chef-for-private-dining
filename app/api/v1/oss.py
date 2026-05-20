@@ -17,13 +17,13 @@ cfg.credentials_provider = credentials_provider
 
 # 方式一：只填写Region（推荐）
 # 必须指定Region ID，SDK会根据Region自动构造HTTPS访问域名
-cfg.region = 'cn-beijing'
+cfg.region = 'cn-hangzhou'
 
 # 使用配置好的信息创建OSS客户端
 client = oss.Client(cfg)
 
 # OSS 域名配置
-OSS_ENDPOINT = os.getenv("OSS_ENDPOINT", "oss-cn-beijing.aliyuncs.com")
+OSS_ENDPOINT = os.getenv("OSS_ENDPOINT", "oss-cn-hangzhou.aliyuncs.com")
 OSS_BUCKET = os.getenv("OSS_BUCKET")
 
 
