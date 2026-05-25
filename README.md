@@ -9,6 +9,11 @@
 - 🔍 智能搜索适合的菜谱
 - ⭐ 从营养价值和制作难度两个维度评分排序
 - 📋 获取详细的菜谱推荐和制作步骤
+- 
+
+https://github.com/user-attachments/assets/82fd9a24-1b47-45b1-a03c-4a0926af80c2
+
+
 
 ## 技术栈
 
