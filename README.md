@@ -11,7 +11,11 @@
 - 📋 获取详细的菜谱推荐和制作步骤
 - 
 
-https://github.com/user-attachments/assets/82fd9a24-1b47-45b1-a03c-4a0926af80c2
+
+
+https://github.com/user-attachments/assets/feb906a7-1e07-4db6-b15a-7098b5250967
+
+
 
 
 
