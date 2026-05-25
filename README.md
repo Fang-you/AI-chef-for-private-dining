@@ -1,4 +1,4 @@
-# AI 私人厨师 (AI Chef for Private Dining)
+# AI 私人厨师 
 
 一个基于 AI 的智能食谱推荐系统，通过识别食材照片，智能推荐营养美味的菜谱。
 
